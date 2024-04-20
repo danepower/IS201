@@ -1,0 +1,47 @@
+#Education{
+    text-decoration:underline;
+}
+
+#About{
+    color:silver;
+}
+
+#BS{
+    font-style:italic;
+}
+
+#What{
+    font-style:italic;
+}
+
+.common{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+.header{
+    height:100px;
+    background-color:black;
+    color: whitesmoke;
+    line-height: 100px;
+}
+
+.Body{
+    background-color: whitesmoke;
+}
+
+img{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.div2{
+    background-color:lightblue;
+}
+
+.div3{
+    background-color:cadetblue;
+}
